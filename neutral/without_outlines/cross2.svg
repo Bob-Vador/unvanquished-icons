@@ -350,8 +350,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="true"
      inkscape:zoom="2.8284271"
-     inkscape:cx="152.38151"
-     inkscape:cy="9.7227182"
+     inkscape:cx="145.84077"
+     inkscape:cy="9.7227183"
      inkscape:window-width="1920"
      inkscape:window-height="1022"
      inkscape:window-x="0"
@@ -368,18 +368,18 @@
      id="g8">
     <path
        id="rect1525"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1;filter:url(#filter1048)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
        d="M 25,10 V 30 H 5 V 55 H 25 V 75 H 50 V 55 H 70 V 30 H 50 V 10 Z"
        sodipodi:nodetypes="ccccccccccccc"
-       inkscape:export-filename="/home/stela/unvanquished assets/neutral/cross2.png"
+       inkscape:export-filename="/media/stela/My Passport/unvanquished assets/ui/neutral/without_outlines/cross2.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="rect1525-3"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63759692;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4737)"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.63759692;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 69,16 V 36 H 49 V 61 H 69 V 81 H 94 V 61 h 20 V 36 H 94 V 16 Z"
        sodipodi:nodetypes="ccccccccccccc"
-       inkscape:export-filename="/home/stela/unvanquished assets/neutral/cross2.png"
+       inkscape:export-filename="/media/stela/My Passport/unvanquished assets/ui/neutral/without_outlines/cross2.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        transform="matrix(0.30532544,0,0,0.30532544,56.932545,47.375148)" />
