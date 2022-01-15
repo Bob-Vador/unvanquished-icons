@@ -58,10 +58,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter937"
-       x="-0.096153846"
-       y="-0.096153846"
-       width="1.1923077"
-       height="1.1923077">
+       x="-0.098461539"
+       y="-0.098461539"
+       width="1.1969231"
+       height="1.1969231">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -101,8 +101,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="true"
      inkscape:zoom="5.6568543"
-     inkscape:cx="75.660425"
-     inkscape:cy="25.544232"
+     inkscape:cx="57.71759"
+     inkscape:cy="33.14563"
      inkscape:window-width="1920"
      inkscape:window-height="1022"
      inkscape:window-x="0"
@@ -119,7 +119,7 @@
      id="g8">
     <path
        id="rect1525"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1;filter:url(#filter937)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.8;stroke-opacity:1;filter:url(#filter937);stroke-miterlimit:4;stroke-dasharray:none"
        d="M 25,10 V 30 H 5 V 55 H 25 V 75 H 50 V 55 H 70 V 30 H 50 V 10 Z"
        sodipodi:nodetypes="ccccccccccccc"
        inkscape:export-filename="/media/stela/My Passport/unvanquished assets/ui/neutral/cross.png"

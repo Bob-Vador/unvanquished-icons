@@ -130,10 +130,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter1048"
-       x="-0.096153846"
-       y="-0.096153846"
-       width="1.1923077"
-       height="1.1923077">
+       x="-0.098461539"
+       y="-0.098461539"
+       width="1.1969231"
+       height="1.1969231">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -307,10 +307,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter4737"
-       x="-0.10490459"
-       y="-0.10490459"
-       width="1.2098092"
-       height="1.2098092">
+       x="-0.11246273"
+       y="-0.11246273"
+       width="1.2249255"
+       height="1.2249255">
       <feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
@@ -349,9 +349,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="152.38151"
-     inkscape:cy="9.7227182"
+     inkscape:zoom="4"
+     inkscape:cx="-13.375"
+     inkscape:cy="20.625"
      inkscape:window-width="1920"
      inkscape:window-height="1022"
      inkscape:window-x="0"
@@ -368,18 +368,18 @@
      id="g8">
     <path
        id="rect1525"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1;filter:url(#filter1048)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.8;stroke-opacity:1;filter:url(#filter1048);stroke-miterlimit:4;stroke-dasharray:none"
        d="M 25,10 V 30 H 5 V 55 H 25 V 75 H 50 V 55 H 70 V 30 H 50 V 10 Z"
        sodipodi:nodetypes="ccccccccccccc"
-       inkscape:export-filename="/home/stela/unvanquished assets/neutral/cross2.png"
+       inkscape:export-filename="/media/stela/My Passport/unvanquished assets/ui/neutral/cross2.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="rect1525-3"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.63759692;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4737)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.62015507;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4737)"
        d="M 69,16 V 36 H 49 V 61 H 69 V 81 H 94 V 61 h 20 V 36 H 94 V 16 Z"
        sodipodi:nodetypes="ccccccccccccc"
-       inkscape:export-filename="/home/stela/unvanquished assets/neutral/cross2.png"
+       inkscape:export-filename="/media/stela/My Passport/unvanquished assets/ui/neutral/cross2.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        transform="matrix(0.30532544,0,0,0.30532544,56.932545,47.375148)" />
